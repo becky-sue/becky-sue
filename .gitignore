@@ -1,3 +1,14 @@
+# Ignore build/output files
+dist/
+build/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore IDE files
+*.sublime-workspace
+*.idea/
+
 # Logs
 logs
 *.log
