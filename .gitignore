@@ -130,6 +130,10 @@ dist
 # Firebase cache directory
 .firebase/
 
+# Strapi-specific files
+strapi/.cache
+strapi/build
+
 # TernJS port file
 .tern-port
 
