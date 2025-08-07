@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
+p
+I'm Becky Sue, a web developer and project manager focused on creating professional and creative websites, as well as other digital products.
 
-<!--
-**becky-sue/becky-sue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 What I'm Working On
+I am actively building a professional website and a research blog. My work is organized across several repositories. You can y projects organized across several repositories. You can find my work on my main organization page.
 
-Here are some ideas to get you started:
+### 🖥️ Projects & Organizations
+- **[Coded Silk Dev](https://github.com/coded-silk-dev):** My central hub for professional web projects.
+- **[Coded Silk Studio](https://github.com/coded-silk-studio):** A collection of my digital products and creative websites.
+- **[Coded Silk Labs](https://github.com/coded-silk-labs):** My home for research, development insights, and my blog into the Universal Equation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
+
+### 📧 Get in Touch
+- **Email:** coded.silk.dev@graphic-designer.com
